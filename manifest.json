@@ -1,0 +1,22 @@
+{
+    "files": {
+        "README.md": "9d3b5067bf0986adeadba47699f9ea27d583a9727c35bfefb516e9f64ca419ec",
+        "README.url": "86c05132be23b463a345e6e581d8772ed230c56af4e9b4e138daee9a8e9f8972",
+        "config.js": {
+            "hash": "29ab3d19f443029c2b48fbcad0dd36464cad738229a6aafd57354e95c8f83092",
+            "overwrite": false
+        },
+        "index.js": "7e5d832d8281d63d1a368c6fa7842c0cdd9f45bf6a41aabdf64387637d8a15a3",
+        "module.json": "13c34de2c9fe67d650035a37421f5670b4989508ac7564729952f3363b157432"
+    },
+    "defs": {
+        "C_START_TARGETED_SKILL": 7,
+        "S_ACTION_END": 5,
+        "S_ACTION_STAGE": 9,
+        "S_CANNOT_START_SKILL": 4,
+        "S_DESPAWN_NPC": 3,
+        "S_LOGIN": [13,14],
+        "S_NPC_LOCATION": 3,
+        "S_SPAWN_NPC": 11
+    }
+}
